@@ -4,7 +4,7 @@
 
 ### Machine Learning 
 
-- [CUSTOMER CHURN: EDA, Preprocessing, Feature Selection, Modeling, Comparation and Evaluation](https://www.kaggle.com/code/rheezid/eda-preprocessing-feature-selection-modeling){:target="\_blank"}
+- [CUSTOMER CHURN: EDA, Preprocessing, Feature Selection, Modeling, Comparation and Evaluation](https://www.kaggle.com/code/rheezid/eda-preprocessing-feature-selection-modeling)
 <img src="images/thumbnail-1.png?raw=true"/>
 
 
